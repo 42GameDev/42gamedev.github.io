@@ -41,9 +41,10 @@ round-avatar: true
 social-network-links:
   email: "contact@42gamedev.fr"
   github: 42GameDev
+  discord: w9KPeC5uYa
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-# twitter: daattali
+#  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
