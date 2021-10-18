@@ -2,10 +2,26 @@
 layout: post
 title: 🏆 Gamejam Saison 1
 subtitle: Cette première gamejam a pour thème Halloween 🎃
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/gamejam-banner.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Gamejam, test]
 ---
 
-Et ça fait bim bam boom
+Pour inaugurer l'ouverture du club, nous avons décider d'organiser une gamejam avec une thématique secrète 
+[jusqu'au jour J](https://itch.io/jam/42gamedev-s1) et une thématique publique **(Halloween)**
+
+# Qu'est ce qu'une gamejam ?
+{: .box-note}
+Le but est de créer un jeu, avec un thème donné, dans un laps de temps très réduit, à partir de zéro, en équipe (ou seul pour les courageux),  avec des personnes qu’ils ne connaissent pas forcément. Le but est simplement de créer pour le plaisir et d’expérimenter des concepts de jeux.
+
+# Qui peut y participer ?
+{: .box-note}
+Pour le moment, seul les élèves de 42 (de n'importe quel campus) peuvent s'inscrire.
+Vous n'êtes pas obligé d'être membre du club.
+
+# Quelles sont les règles ?
+{: .box-warning}
+Vous devrez rendre votre jeu dans un temps imparti (72h) ici.
+Votre jeu devra respécter les 2 thèmes imposés (dont un connu à l'avance).
+Et le plus important, passez un moment fun 😁

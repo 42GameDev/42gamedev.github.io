@@ -14,11 +14,10 @@ author: 42GameDev
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  À propos: "apropos"
+  🏆 Gamejams:
+    - 🎃 Saison 1: "https://itch.io/jam/42gamedev-s1"
+  Status & Règles: "https://github.com/42GameDev/Statuts-Reglements"
 
 # --- Logo --- #
 
