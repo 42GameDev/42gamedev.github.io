@@ -3,8 +3,8 @@ layout: post
 title: 🏆 Gamejam Saison 1
 subtitle: Cette première gamejam a pour thème Halloween 🎃
 cover-img: /assets/img/gamejam-banner.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/gamejam-banner.jpg
+share-img: /assets/img/gamejam-banner.jpg
 tags: [Gamejam, Event]
 ---
 
@@ -22,6 +22,10 @@ Vous n'êtes pas obligé d'être membre du club. (Mais c'est toujours mieux 😇
 - Vous devrez rendre votre jeu dans un temps imparti (72h) ici.
 - Votre jeu devra respécter les 2 thèmes imposés (dont un connu à l'avance).
 - Et le plus important, passez un moment fun 😁
+
+## Comment y participer ?
+Il vous suffit de vous inscrire sur le site [Itch.io](https://itch.io)
+et de rejoindre [la gamejam via ce lien !](https://itch.io/jam/42gamedev-s1)
 
 {: .box-note}
 **Info:** N'oubliez pas de rejoindre notre [Discord Officiel](https://discord.gg/w9KPeC5uYa) pour suivre toute l'actualité de la Gamejam !
