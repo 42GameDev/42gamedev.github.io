@@ -3,8 +3,8 @@ layout: post
 title: 🏆 Gamejam Saison 1
 subtitle: Cette première gamejam a pour thème Halloween 🎃
 cover-img: /assets/img/gamejam-banner.jpg
-thumbnail-img: /assets/img/gamejam-banner.jpg
-share-img: /assets/img/gamejam-banner.jpg
+thumbnail-img: /assets/img/42gamedev-halloween.png
+share-img: /assets/img/42gamedev-halloween.png
 tags: [Gamejam, Event]
 ---
 
