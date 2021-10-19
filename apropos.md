@@ -25,7 +25,7 @@ Pour l'instant nos objectifs sont simple: aider ceux qui souhaitent créer leur
 propre jeu vidéo et passer du bon temps !
 Mais on va pas se contenter de si peu !
 📝 Petite TODO liste:
-- Organiser des Gamejams (clic ici pour voir un exemple)
+- Organiser des Gamejams ([clic ici pour voir un exemple](https://42gamedev.fr/2021-10-18-gamejam-saison-1/))
 - Organiser des lan/soirées jeux vidéos entre étudiants
 - Créer notre propre jeu vidéo tous ensemble !
 - Et d'autres projets plus obscures encore...
