@@ -16,7 +16,7 @@ Je rappelle que cette jam avait pour thème : **Halloween et la chimie**.
 Tous les candidats s'en sont vraiment bien sortis ! Un gros GG à vous 😊
 
 
-## 🏆 Le gagnant eeeeest **jayash**
+## 🏆 Le gagnant eeeeest **jayache**
 Bravo ! Avec son Candy Hunting, il remporte la victoire. Un jeu simple et court mais très addictif, on aurait aimé pouvoir jouer plus longtemps mais 72h c'est court !
 
 Merci aussi aux autres participants : **gedemais** et **clboutry** avec leur Al'Chemist, **dait-atm** avec son Atelier Potion, **vvandenb** avec Ghost Brew et **pbonilla** avec Witch's Candy.
