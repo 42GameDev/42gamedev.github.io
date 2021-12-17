@@ -21,8 +21,11 @@ N'hésitez pas à poser vos questions sur le discord ou le channel slack de 42Ga
 Il n'y à que 40 places alors dépêchez-vous !
 
 [Lien du Discord](https://discord.gg/w9KPeC5uYa)
+
 [Channel Slack](https://42born2code.slack.com/archives/C02PQANHGGP)
+
 [Lien d'inscription](https://www.eventbrite.fr/e/billets-game-jam-viva-technology-x-42-x-gobelins-220079853767)
+
 [Site Web 42GameDev](https://42gamedev.fr/)
 
 Et bonne fin d'année 🎄,
