@@ -16,7 +16,8 @@ author: 42GameDev
 navbar-links:
   À propos: "apropos"
   🏆 Gamejams:
-    - 🎃 Saison 1: "https://itch.io/jam/42gamedev-s1"
+    - 🎃 Saison 1: "https://42gamedev.fr/2021-10-18-gamejam-saison-2"
+    - 🏖 Saison 2: "https://42gamedev.fr/2022-06-29-gamejam-saison-2"
   Status & Règles: "https://github.com/42GameDev/Statuts-Reglements"
   Discord: "https://discord.gg/w9KPeC5uYa"
 
@@ -95,7 +96,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "42gamedev, 42, club, game, dev"
+keywords: "42gamedev, 42, club, game, dev, gamejam, association, 42paris"
 
 # --- Colours / background image --- #
 
