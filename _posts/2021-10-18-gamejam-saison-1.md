@@ -22,7 +22,7 @@ Vous n'êtes pas obligé d'être membre du club. (Mais c'est toujours mieux 😇
 
 ## 📚 Quelles sont les règles ?
 - Vous devrez rendre votre jeu dans un temps imparti (72h) ici.
-- Votre jeu devra respécter les 2 thèmes imposés (dont un connu à l'avance).
+- Votre jeu devra respecter les 2 thèmes imposés (dont un connu à l'avance).
 - Et le plus important, passez un moment fun 😁
 
 ## 💼 Comment y participer ?
